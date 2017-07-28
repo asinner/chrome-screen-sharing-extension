@@ -22,7 +22,7 @@ Then, make an intial build of the extension:
 npm run build:extension
 ```
 
-After you build the extension, you need to load the extension into chrome. Visit chrome://
+After you build the extension, you need to load the extension into chrome:
 
 1. Go to chrome://extensions
 2. Check "Developer mode"
@@ -35,4 +35,4 @@ After installing the extension, start the server:
 npm start
 ```
 
-This will watch and re-build your source and make it available on http://localhost:8080.
+Go to http://localhost:8080 in your Chrome browser to see the example.
