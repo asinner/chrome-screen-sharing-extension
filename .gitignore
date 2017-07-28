@@ -1,0 +1,4 @@
+node_modules
+extension/*.js
+npm-debug.log
+.DS_Store
